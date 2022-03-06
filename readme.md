@@ -36,8 +36,10 @@ In 99.99% of solveable grids it will solve in under 1 second. Press solve again 
 
 -------
 
-Pricing: ~0.3 ETH
+Pricing: ~0.3 ETH (limited sale)
 
 Contact: sargb#1010 on discord
 
-Source code will be released after game end.
+----
+
+Source code will be released in public after game end.
