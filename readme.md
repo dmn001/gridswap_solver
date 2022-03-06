@@ -1,4 +1,6 @@
-# Gridswap solver in Python.
+# Gridswap solver in Python
+
+![Example](gridswap_solver.png)
 
 The key features is that it solves any solveable 12x12 grid in under a second, and it has an interative user interface which allows you to click to select and deselect the black squares, and solver which shows the path in the window as in the screenshot.
 
@@ -16,7 +18,7 @@ Keys:
     
     Esc - Exit
 
-Use: run i_gridswap.py
+Use: python i_gridswap.py
 
 Python 3
 
@@ -38,4 +40,4 @@ Pricing: ~0.3 ETH
 
 Contact: sargb#1010 on discord
 
-![Example](gridswap_solver.png)
+Source code will be released after game end.
