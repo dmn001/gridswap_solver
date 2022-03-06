@@ -3,13 +3,22 @@ I wrote an interactive gridswap solver in Python. The key features is that it so
 Controls:
 
 Keys:
+
     Left - Solve
+    
     Right - Solve
+    
     Space - Solve
+    
     R - Reset
+    
     Esc - Exit
 
 Use: run i_gridswap.py
+
+Python 3
+
+dependencies: `pip install pygame`
 
 Features:
 
@@ -23,6 +32,8 @@ In 99.99% of solveable grids it will solve in under 1 second. Press solve again 
 
 -------
 
-Pricing: contact sargb#1010 on discord
+Pricing: ~0.3 ETH
+
+Contact: sargb#1010 on discord
 
 ![Example](gridswap_solver.png)
