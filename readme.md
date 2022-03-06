@@ -1,4 +1,6 @@
-I wrote an interactive gridswap solver in Python. The key features is that it solves any solveable 12x12 grid in under a second, and it has an interative user interface to click the black squares and solve it and show the path in the window as in the screenshot.
+# Gridswap solver in Python.
+
+The key features is that it solves any solveable 12x12 grid in under a second, and it has an interative user interface which allows you to click to select and deselect the black squares, and solver which shows the path in the window as in the screenshot.
 
 Controls:
 
