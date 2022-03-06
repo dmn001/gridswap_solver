@@ -24,3 +24,5 @@ In 99.99% of solveable grids it will solve in under 1 second. Press solve again 
 -------
 
 Pricing: contact sargb#1010 on discord
+
+![Example](gridswap_solver.png)
