@@ -18,13 +18,17 @@ Keys:
     
     Esc - Exit
 
-Use: python i_gridswap.py
+# Run:
+
+`python i_gridswap.py`
+
+# Requirements
 
 Python 3
 
 dependencies: `pip install pygame`
 
-Features:
+## Features:
 
 click on squares on the window to select and deselect black squares
 
