@@ -74,7 +74,7 @@ https://en.wikipedia.org/wiki/NP-hardness
 
 https://en.wikipedia.org/wiki/Self-avoiding_walk
 
-## Hamilton path in grid graph
+## Hamiltonian path in grid graph
 
 https://cs.stackexchange.com/questions/68580/hamiltonian-path-in-grid-graph
 
