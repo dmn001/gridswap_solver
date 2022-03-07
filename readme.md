@@ -58,6 +58,10 @@ https://en.wikipedia.org/wiki/Self-avoiding_walk
 
 https://cs.stackexchange.com/questions/68580/hamiltonian-path-in-grid-graph
 
+This question asked on stackexchange over 5 years ago exactly describes the problem. Underneath, the author adds a comment which is the key to solving it in a reasonable amount of time:
+
+![key](key.png)
+
 ## Monte Carlo Method
 
 https://en.wikipedia.org/wiki/Monte_Carlo_method
