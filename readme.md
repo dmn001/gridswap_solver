@@ -34,12 +34,6 @@ Press r to reset
 
 In 99.99% of solveable grids it will solve in under 1 second. Press solve again if it doesn't find a solution.
 
--------
-
-Pricing: 0.2 ETH (limited sale)
-
-Contact: sargb#1010 on discord
-
 ----
 
 Source code will be released in public after game end.
