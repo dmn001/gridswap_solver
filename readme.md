@@ -38,7 +38,7 @@ In 99.99% of solveable grids it will solve in under 1 second. Press solve again 
 
 This is the co-ordinate system used in the code. Top left is origin (0,0) and zero-indexed.
 
-![co-ord system](coordinate_system.png)
+![co-ord system](/images/coordinate_system.png)
 
 # How the solver works
 
@@ -76,7 +76,7 @@ https://cs.stackexchange.com/questions/68580/hamiltonian-path-in-grid-graph
 
 This question asked on stackexchange over 5 years ago exactly describes the problem. Underneath, the author adds a comment which is the key to solving it in a reasonable amount of time:
 
-![key](key.png)
+![key](/images/key.png)
 
 ## Monte Carlo Method
 
@@ -110,6 +110,6 @@ I did not sell, profit or gain from the making of this script, and nobody gained
 
 I enjoyed solving this puzzle, which some said were unsovleable, and where others tried and failed. The challenge of solving interesting problems like this far outweighs any monetary prize. Good luck if you are still participating!
 
-![caesar](caesar.png)
+![caesar](/images/caesar.png)
 
-![IG](ig.png)
+![IG](/images/ig.png)
