@@ -54,7 +54,7 @@ The number of iterations is set to 500 by default which should be more than enou
 
 If it does not find a solution, it will instead display the longest path found and "incomplete solution found" in the title bar.
 
-When a solution is found, is displays "SOLVED!" in the title bar.
+When a full solution is found, is displays "SOLVED!" in the title bar.
 
 The grid size and other parameters can be changed in the code.
 
