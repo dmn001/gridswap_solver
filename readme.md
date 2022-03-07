@@ -112,7 +112,7 @@ Objective: Activate as many squares as possible before getting stuck (moving to 
 
 I did not sell, profit or gain from the making of this script, and nobody gained any advantage from using it during the live game round. Actually, the use of a solver was not a critical factor in getting a high score. Instead, overcoming the low time limit and high risk of human errors due to pressure from only having 2 attempts, and server lag because of "throttling" and/or other external factors, and other server glitches/bugs were the main factors. The increase in grid size from 10x10 to 12x12 and the sparseness of the void spaces also likely simplified the live game round compared to the test rounds.
 
-I enjoyed solving this puzzle, which some said were unsolveable, and where others tried and failed. The challenge of solving interesting problems like this far outweighs any monetary prize. Good luck if you are still participating!
+I enjoyed solving this puzzle, which some said were unsolveable, and where others tried and failed. The challenge of solving interesting problems like this far outweighs any monetary prize or NFT. Good luck if you are still participating!
 
 ![caesar](/images/caesar.png)
 
