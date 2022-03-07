@@ -1,6 +1,6 @@
 # Gridswap solver in Python
 
-![Solver](gridswap_solver.png)
+![Solver](/images/gridswap_solver.png)
 
 The key features is that it solves any solveable 12x12 grid in under a second, and it has an interative user interface which allows you to click to select and deselect the black squares, and solver which shows the path in the window as in the screenshot.
 
